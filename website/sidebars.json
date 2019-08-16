@@ -1,0 +1,12 @@
+{
+  "docs": {
+    "Overview": [
+      "overview/products"
+    ],
+    "Z Tools": [
+      "z-tools/doc1",
+      "z-tools/doc2",
+      "z-tools/doc3"
+    ]
+  }
+}

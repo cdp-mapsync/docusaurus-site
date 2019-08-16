@@ -1,0 +1,37 @@
+/* your custom css */
+a {
+  color: #00ab5f;
+}
+.button {
+  color: #00ab5f;
+  border: 1px solid #00ab5f;
+}
+.button:hover {
+  background: #00ab5f;
+}
+.fixedHeaderContainer {
+  background: #00ab5f;
+}
+.nav-footer {
+  padding-top:0;
+  padding-bottom:0;
+  background: white;
+  color: black;
+}
+.nav-footer .copyright {
+  color: black;
+}
+@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+}
+
+@media only screen and (min-width: 1024px) {
+}
+
+@media only screen and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1400px) {
+}
+
+@media only screen and (min-width: 1500px) {
+}
