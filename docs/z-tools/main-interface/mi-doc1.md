@@ -1,7 +1,7 @@
 ---
 id: mi-doc1
-title: Main Interface: Overview
-sidebar_label: Z Tools/Overview
+title: Setting Tabs
+sidebar_label: Setting Tabs
 ---
 
 ## Toolbar
