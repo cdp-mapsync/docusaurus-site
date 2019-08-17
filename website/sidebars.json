@@ -1,17 +1,7 @@
 {
   "docs": {
     "Overview": [
-      "overview/products",
-      "examples",
-      {
-        "type": "subcategory",
-        "label": "My Example Subcategory",
-        "ids": [
-          "doc1",
-          "doc2"
-        ]
-      }
-     
+      "overview/products"
      
     ],
     "Z Tools": [
