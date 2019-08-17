@@ -1,19 +1,25 @@
 {
   "docs": {
-    "Overview": [
-      "overview/products"
-    ],
-    "Z Tools": [
-      "main-interface",
+    "My Example Category": [
+      "examples",
       {
         "type": "subcategory",
-        "label": "Main Interface",
+        "label": "My Example Subcategory",
         "ids": [
-          "mi-doc1"
-         ]
-      }
-      ]
-     
-   
+          "my-examples",
+          ...
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "My Next Subcategory",
+        "ids": [
+          "some-other-examples"
+        ]
+      },
+      "even-more-examples",
+      ...
+    ],
+    ...
   }
 }
