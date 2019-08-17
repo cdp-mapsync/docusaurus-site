@@ -1,11 +1,11 @@
 ---
 id: mi-doc1
 title: Main Interface: Overview
-sidebar_label: Overview
+sidebar_label: Z Tools/Overview
 ---
 
-##Toolbar
+## Toolbar
 
-##Tabs
+## Tabs
 
-##Tool Tree
+## Tool Tree
