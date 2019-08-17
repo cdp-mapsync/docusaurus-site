@@ -7,8 +7,8 @@
       "z-tools/doc1",
       "z-tools/doc2",
       "z-tools/doc3",
-      "z-tools/main-interface":[
-         "z-tools/main-interface/mi-doc1"
+      "Main Interface": [
+          "z-tools/main-interface/mi-doc1"
       ]
      
     ]
