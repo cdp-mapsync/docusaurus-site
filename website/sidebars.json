@@ -4,11 +4,14 @@
       "overview/products"
     ],
     "Z Tools": [
-      "z-tools/doc1",
-      "z-tools/doc2",
-      "z-tools/doc3",
-      "Main Interface": [
-          "z-tools/main-interface/mi-doc1"
+      "main-interface",
+      {
+        "type": "subcategory",
+        "label": "Main Interface",
+        "ids": [
+          "mi-doc1"
+         ]
+      }
       ]
      
     ]
