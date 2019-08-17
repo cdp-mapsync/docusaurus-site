@@ -1,6 +1,7 @@
 {
   "docs": {
-    "My Example Category": [
+    "Overview": [
+      "overview/products",
       "examples",
       {
         "type": "subcategory",
@@ -9,16 +10,13 @@
           "doc1",
           "doc2"
         ]
-      },
-      {
-        "type": "subcategory",
-        "label": "My Next Subcategory",
-        "ids": [
-          "doc3"
-        ]
-      },
+      }
+     
      
     ],
+    "Z Tools": [
+      "z-tools/doc1"
+    ]
    
   }
 }
