@@ -1,8 +1,9 @@
 ---
 id: mi-doc1
-title: Overview
-sidebar_label: Overview
+title: Main Interface
+sidebar_label: Main Interface
 ---
+# Overview
 
 The main interface is a container for geoprocessing tools and project and global settings. 
 
@@ -19,3 +20,9 @@ Here is a list of the tabs...
   * **Activate**
   * **User Grids**
   
+# Paths Tab
+# Files Tab
+# Map Tab
+# Read Me Tab 
+# Activate Tab
+# User Grids
