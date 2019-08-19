@@ -3,18 +3,15 @@
     "Overview": [
       "overview/products"
      ],
-    "Main Interface": [
+    "Z Tools": [
       "z-tools/main-interface/mi-doc1",
       "z-tools/main-interface/mi-doc2"
     ],
-    "Select Project": [
+    "GeoSync GO": [
        "z-tools/doc1"
      ],
-    "Manage Layers": [
+    "GeoSync Cloud": [
        "z-tools/doc2"
-     ],
-    "Z-Tools Map":[
-       "z-tools/map/map-doc1"
      ]
    }
 }
