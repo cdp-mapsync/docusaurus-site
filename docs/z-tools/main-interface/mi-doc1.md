@@ -1,7 +1,7 @@
 ---
 id: mi-doc1
-title: Setting Tabs
-sidebar_label: Setting Tabs
+title: Overview
+sidebar_label: Overview
 ---
 
 The main interface is a container for geoprocessing tools and project and global settings. 
