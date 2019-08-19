@@ -4,7 +4,8 @@
       "overview/products"
      ],
     "Main Interface": [
-      "z-tools/main-interface/mi-doc1"
+      "z-tools/main-interface/mi-doc1",
+      "z-tools/main-interface/mi-doc2"
     ],
     "Select Project": [
        "z-tools/doc1"
