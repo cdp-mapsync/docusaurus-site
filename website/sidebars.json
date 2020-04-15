@@ -11,6 +11,9 @@
      ],
     "GeoSync Cloud": [
        "z-tools/doc2"
+     ],
+    "Advisory Apps": [
+       "advisory-apps/map"
      ]
    }
 }
