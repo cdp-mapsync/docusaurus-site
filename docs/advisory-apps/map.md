@@ -1,5 +1,5 @@
 ---
-id: advisory-map
+id: doc1
 title: Advisory Map
 sidebar_label: Map
 ---
