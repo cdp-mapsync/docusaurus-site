@@ -1,3 +1,9 @@
+---
+id: advisory-map
+title: Advisory Map
+sidebar_label: Map
+---
+
 The map editing interface is in the admin section of your advisory app. After logging in, access it by going to:
 
 Pages > Map Page
